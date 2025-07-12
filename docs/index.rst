@@ -1,7 +1,13 @@
 totalav.com/installs | How to Download and Install TotalAV
 ===========================================================
 
-In today’s digitally connected world, cybersecurity is more essential than ever. Whether you're browsing, shopping, or banking online, your personal data is always at risk. That’s where TotalAV comes in—a powerful antivirus solution designed for real-time protection, malware defense, and system optimization. If you've recently subscribed to TotalAV, your first step is to visit `totalav.com/installs <https://www.totalav.com/installs>`_ to get started.
+In today’s digitally connected world, cybersecurity is more essential than ever. Whether you're browsing, shopping, or banking online, your personal data is always at risk. That’s where TotalAV comes in—a powerful antivirus solution designed for real-time protection, malware defense, and system optimization. If you've recently subscribed to TotalAV, your first step is to visit totalav.com/installs to get started.
+
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://totalavdesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with TotalAV</a>
+   </div>
 
 This comprehensive guide will walk you through how to **Download and Install TotalAV** easily and securely, using the official **totalav.com/installs** portal. From login to activation, we've got every step covered.
 
